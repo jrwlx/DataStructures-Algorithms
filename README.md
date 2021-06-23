@@ -1,2 +1,2 @@
-# DataStructures-Algorithms-
-CS301 at CSUEB
+# DataStructures-Algorithms
+Assignments for CS-301 Data Strucures & Algoritms at CSUEB
